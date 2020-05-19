@@ -7,6 +7,7 @@ Remember that start/end point is the same.
 The calculator works whatever the size of the map (capped to 15x15 as in official, as no unofficial go higher, but can go higher if you want to).
 
 **Preview**
+
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/TSP-solver/master/git_images/TSP-Solver.gif)
 
 
